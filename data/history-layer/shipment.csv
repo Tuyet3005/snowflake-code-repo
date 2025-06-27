@@ -1,5 +1,5 @@
 ﻿SHIPMENT_ID,ORDER_ID,SHIP_DATE,SHIP_MODE,SEGMENT,COUNTRY,CITY,STATE,POSTAL_CODE,REGION,START_DATE,END_DATE,IS_CURRENT
-0,CA-2016-152156,2016-11-11,Second Class,Consumer,United States,Henderson,Kentucky,42420,South,2025-06-26,,true
+0,CA-2016-152156,2016-11-11,Second Class,Consumer,United States,Henderson,Kentucky,42420,South,2025-06-26,2025-06-26,false
 2,CA-2016-138688,2016-06-16,Second Class,Corporate,United States,Los Angeles,California,90036,West,2025-06-26,,true
 3,US-2015-108966,2015-10-18,Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,2025-06-26,,true
 5,CA-2014-115812,2014-06-14,Standard Class,Consumer,United States,Los Angeles,California,90032,West,2025-06-26,,true
@@ -5008,3 +5008,4 @@
 9989,CA-2014-110422,2014-01-23,Second Class,Consumer,United States,Miami,Florida,33180,South,2025-06-26,,true
 9990,CA-2017-121258,2017-03-03,Standard Class,Consumer,United States,Costa Mesa,California,92627,West,2025-06-26,,true
 9993,CA-2017-119914,2017-05-09,Second Class,Consumer,United States,Westminster,California,92683,West,2025-06-26,,true
+0,CA-2016-152156,2025-06-26,ShipMode=Tuyet,Segment=Tuyet,country=Tuyet,city,state,999999,region=Tuyet,2025-06-26,,true
