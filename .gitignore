@@ -1,6 +1,5 @@
 /- FACT_ORDER_PRODUCT.sql
 /-- bản ni là bản đầu tiên, gom hết mọi t.sql
-/5-Layers
 /backup.sql
 /CREATE OR REPLACE PROCEDURE SP_MERGE_CUS.sql
 /SQL_load_data.sql
